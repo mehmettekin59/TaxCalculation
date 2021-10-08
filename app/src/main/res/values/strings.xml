@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaxCalculation</string>
+    <string name="Tax">Tax: %s</string>
+    <string name="tax_20">Tax : 20 $</string>
+    <string name="high_20">High (%20)</string>
+    <string name="normal_18">Normal (%18</string>
+    <string name="are_you_married">Are you married?</string>
+    <string name="calculate">Calculate</string>
+    <string name="rounding_up">rounding up</string>
+    <string name="yes">Yes</string>
+</resources>
